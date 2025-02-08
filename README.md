@@ -1,2 +1,2 @@
-# Axarak
-Prueba de estudios
+# inventario php
+Sistema de inventario en lenguaje php
